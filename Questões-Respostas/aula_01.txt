@@ -1,35 +1,35 @@
 Data: 08/03/2017
 
-1. O que são sistemas embarcados?
+1. O que sÃ£o sistemas embarcados?
 
-R. Sistemas computacionais de propósito específico. Têm em sua composição tudo que é preciso para seu funcionamento independente, 
-mas diferentes dos computadores de uso geral (desktops), seus componentes tem a capacidade limitada de acordo com a função a 
+R. Sistemas computacionais de propÃ³sito especÃ­fico. TÃªm em sua composiÃ§Ã£o tudo que Ã© preciso para seu funcionamento independente, 
+mas diferentes dos computadores de uso geral (desktops), seus componentes tem a capacidade limitada de acordo com a funÃ§Ã£o a 
 ser executada.
 
-2. O que são sistemas microprocesssados?
+2. O que sÃ£o sistemas microprocesssados?
 
-R. Sistemas embarcados é um tipo de sistema microprocessado, onde é um sistema encapsulado que atende um propósito específico. 
+R. Sistema embarcado Ã© um tipo de sistema microprocessado, onde Ã© um sistema encapsulado que atende um propÃ³sito especÃ­fico. 
 
-3. Apresente aplicações de sistemas embarcados:
-	(a) Para a indústria automotiva;
+3. Apresente aplicaÃ§Ãµes de sistemas embarcados:
+	(a) Para a indÃºstria automotiva;
 	
-	R. Computadores de bordo, controle de freio ABS, sistemas de áudio e vídeo.
+	R. Computadores de bordo, controle de freio ABS, sistemas de Ã¡udio e vÃ­deo.
 	
-	(b) Para eletrodomésticos;
+	(b) Para eletrodomÃ©sticos;
 	
-	R. Controle e temporização em lava-roupas, medição e controle de temperatura em geladeiras.
+	R. Controle e temporizaÃ§Ã£o em lava-roupas, mediÃ§Ã£o e controle de temperatura em geladeiras.
 	
-	(c) Para automação industrial.
+	(c) Para automaÃ§Ã£o industrial.
 	
-	R. Controle de braços mecânicos em linhas de montagem, detecção e separação automática de produtos fora do padrão. 
+	R. Controle de braÃ§os mecÃ¢nicos em linhas de montagem, detecÃ§Ã£o e separaÃ§Ã£o automÃ¡tica de produtos fora do padrÃ£o. 
 
-4. Cite arquiteturas possíveis e as diferenças entre elas.
+4. Cite arquiteturas possÃ­veis e as diferenÃ§as entre elas.
 
 R. Podemos citar as arquiteturas CISC e RISC. Na arquitetura RISC (Reduced Instruction Set Computer) temos um conjunto de 
-instruções mais simples e com execução mais rápida, é viável para a utilização de linguagens otimizadas, focando no software
-e não no hardware. Na arquitetura CISC (Complex Instruction Set Computer) temos conjuntos de instruções mais complexos,
-tornando essa arquitetura bastante versátil.
+instruÃ§Ãµes mais simples e com execuÃ§Ã£o mais rÃ¡pida, Ã© viÃ¡vel para a utilizaÃ§Ã£o de linguagens otimizadas, focando no software
+e nÃ£o no hardware. Na arquitetura CISC (Complex Instruction Set Computer) temos conjuntos de instruÃ§Ãµes mais complexos,
+tornando essa arquitetura bastante versÃ¡til.
 
-5. Por que usamos o MSP430 na disciplina, ao invés de outro microcontrolador?
+5. Por que usamos o MSP430 na disciplina, ao invÃ©s de outro microcontrolador?
 
-R. Custo acessível, possibilidade de utilização profissional e bastante conteúdo teórico e fóruns de discussão disponíveis.
+R. Custo acessÃ­vel, possibilidade de utilizaÃ§Ã£o profissional e bastante conteÃºdo teÃ³rico e fÃ³runs de discussÃ£o disponÃ­veis.
