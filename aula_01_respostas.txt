@@ -2,7 +2,9 @@ Data: 08/03/2017
 
 1. O que são sistemas embarcados?
 
-R. Sistemas computacionais de propósito específico. Têm em sua composição tudo que é preciso para seu funcionamento independente, mas diferentes dos computadores de uso geral (desktops), seus componentes tem a capacidade limitada de acordo com a função a ser executada.
+R. Sistemas computacionais de propósito específico. Têm em sua composição tudo que é preciso para seu funcionamento independente, 
+mas diferentes dos computadores de uso geral (desktops), seus componentes tem a capacidade limitada de acordo com a função a 
+ser executada.
 
 2. O que são sistemas microprocesssados?
 
@@ -23,7 +25,10 @@ R. Sistemas embarcados é um tipo de sistema microprocessado, onde é um sistema
 
 4. Cite arquiteturas possíveis e as diferenças entre elas.
 
-R. Podemos citar as arquiteturas CISC e RISC. Na arquitetura RISC (Reduced Instruction Set Computer) temos um conjunto de instruções mais simples e com execução mais rápida, é viável para a utilização de linguagens otimizadas, focando no software e não no hardware. Na arquitetura CISC (Complex Instruction Set Computer) temos conjuntos de instruções mais complexos, tornando essa arquitetura bastante versátil.
+R. Podemos citar as arquiteturas CISC e RISC. Na arquitetura RISC (Reduced Instruction Set Computer) temos um conjunto de 
+instruções mais simples e com execução mais rápida, é viável para a utilização de linguagens otimizadas, focando no software
+e não no hardware. Na arquitetura CISC (Complex Instruction Set Computer) temos conjuntos de instruções mais complexos,
+tornando essa arquitetura bastante versátil.
 
 5. Por que usamos o MSP430 na disciplina, ao invés de outro microcontrolador?
 
